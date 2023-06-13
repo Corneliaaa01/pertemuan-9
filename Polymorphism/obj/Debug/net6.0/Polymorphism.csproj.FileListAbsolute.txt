@@ -1,0 +1,15 @@
+C:\Pemograman Sem 2\Polymorphism\Polymorphism\Polymorphism\bin\Debug\net6.0\Polymorphism.exe
+C:\Pemograman Sem 2\Polymorphism\Polymorphism\Polymorphism\bin\Debug\net6.0\Polymorphism.deps.json
+C:\Pemograman Sem 2\Polymorphism\Polymorphism\Polymorphism\bin\Debug\net6.0\Polymorphism.runtimeconfig.json
+C:\Pemograman Sem 2\Polymorphism\Polymorphism\Polymorphism\bin\Debug\net6.0\Polymorphism.dll
+C:\Pemograman Sem 2\Polymorphism\Polymorphism\Polymorphism\bin\Debug\net6.0\Polymorphism.pdb
+C:\Pemograman Sem 2\Polymorphism\Polymorphism\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.AssemblyReference.cache
+C:\Pemograman Sem 2\Polymorphism\Polymorphism\Polymorphism\obj\Debug\net6.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pemograman Sem 2\Polymorphism\Polymorphism\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfoInputs.cache
+C:\Pemograman Sem 2\Polymorphism\Polymorphism\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfo.cs
+C:\Pemograman Sem 2\Polymorphism\Polymorphism\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Pemograman Sem 2\Polymorphism\Polymorphism\Polymorphism\obj\Debug\net6.0\Polymorphism.dll
+C:\Pemograman Sem 2\Polymorphism\Polymorphism\Polymorphism\obj\Debug\net6.0\refint\Polymorphism.dll
+C:\Pemograman Sem 2\Polymorphism\Polymorphism\Polymorphism\obj\Debug\net6.0\Polymorphism.pdb
+C:\Pemograman Sem 2\Polymorphism\Polymorphism\Polymorphism\obj\Debug\net6.0\Polymorphism.genruntimeconfig.cache
+C:\Pemograman Sem 2\Polymorphism\Polymorphism\Polymorphism\obj\Debug\net6.0\ref\Polymorphism.dll
